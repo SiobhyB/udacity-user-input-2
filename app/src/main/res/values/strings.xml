@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Harry Potter Quiz</string>
+
+    <string name="name_title">Name:</string>
+
+    <string name="question_one_title">Question One</string>
+    <string name="question_one">Which creature is depicted in the emblem for Gryffindor house?</string>
+    <string name="question_one_answer_one">A badger</string>
+    <string name="question_one_answer_two">A lion</string>
+    <string name="question_one_answer_three">An eagle</string>
+    <string name="question_one_answer_four">A snake</string>
+
+    <string name="question_two_title">Question Two</string>
+    <string name="question_two">Check the two shops that can be found in Diagon Alley.</string>
+    <string name="question_two_answer_one">Flourish and Blotts</string>
+    <string name="question_two_answer_two">Whistles and Bells</string>
+    <string name="question_two_answer_three">Ollivander\'s</string>
+    <string name="question_two_answer_four">Trelawney\'s Trinkets</string>
+
+    <string name="question_three_title">Question Three</string>
+    <string name="question_three">The name of the wand-lightening charm?</string>
+    <string name="question_three_answer_one">Wingardium Leviosa</string>
+    <string name="question_three_answer_two">Riddikulus</string>
+    <string name="question_three_answer_three">Lumos</string>
+    <string name="question_three_answer_four">Expelliarmus</string>
+
+    <string name="question_four_title">Question Four</string>
+    <string name="question_four">Which of the following is Harry Potter\'s middle name?</string>
+    <string name="question_four_answer_one">Sirius</string>
+    <string name="question_four_answer_two">Albus</string>
+    <string name="question_four_answer_three">Peter</string>
+    <string name="question_four_answer_four">James</string>
+
+    <string name="submit_button">Submit Answers</string>
+
+</resources>
